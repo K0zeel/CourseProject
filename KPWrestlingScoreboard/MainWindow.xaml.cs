@@ -564,19 +564,39 @@ namespace KPWrestlingScoreboard
             _flagWindow?.Close();
             _flagWindow = null;
 
-            // Создаем и показываем табло
+            // Создаем табло
             _scoreboardWindow = new ScoreboardWindow();
             
             // Позиционируем на втором мониторе
             var screens = System.Windows.Forms.Screen.AllScreens;
+            System.Windows.Forms.Screen targetScreen;
+            
             if (screens.Length > 1)
             {
-                var secondScreen = screens[1];
-                _scoreboardWindow.Left = secondScreen.Bounds.Left;
-                _scoreboardWindow.Top = secondScreen.Bounds.Top;
+                // Находим монитор, который не содержит главное окно
+                var mainWindowScreen = System.Windows.Forms.Screen.FromHandle(
+                    new System.Windows.Interop.WindowInteropHelper(this).Handle);
+                targetScreen = screens.FirstOrDefault(s => !s.Equals(mainWindowScreen)) ?? screens[1];
+            }
+            else
+            {
+                // Если только один монитор - показываем на нём
+                targetScreen = screens[0];
+                System.Windows.MessageBox.Show(
+                    "Второй монитор не обнаружен.\nТабло будет отображено на текущем мониторе.",
+                    "Информация", MessageBoxButton.OK, MessageBoxImage.Information);
             }
             
+            // Устанавливаем позицию и размер ДО показа окна
+            _scoreboardWindow.Left = targetScreen.Bounds.Left;
+            _scoreboardWindow.Top = targetScreen.Bounds.Top;
+            _scoreboardWindow.Width = targetScreen.Bounds.Width;
+            _scoreboardWindow.Height = targetScreen.Bounds.Height;
+            
+            // Показываем окно
             _scoreboardWindow.Show();
+            
+            // Разворачиваем на весь экран после показа
             _scoreboardWindow.WindowState = WindowState.Maximized;
             _isScoreboardVisible = true;
 
@@ -596,18 +616,31 @@ namespace KPWrestlingScoreboard
 
         private void ShowFlagOnSecondScreen()
         {
-            _flagWindow = new FlagWindow();
-            
-            // Позиционируем на втором мониторе
+            // Проверяем наличие второго монитора
             var screens = System.Windows.Forms.Screen.AllScreens;
-            if (screens.Length > 1)
+            if (screens.Length <= 1)
             {
-                var secondScreen = screens[1];
-                _flagWindow.Left = secondScreen.Bounds.Left;
-                _flagWindow.Top = secondScreen.Bounds.Top;
+                // Если только один монитор - не показываем флаг
+                return;
             }
             
+            _flagWindow = new FlagWindow();
+            
+            // Находим монитор, который не содержит главное окно
+            var mainWindowScreen = System.Windows.Forms.Screen.FromHandle(
+                new System.Windows.Interop.WindowInteropHelper(this).Handle);
+            var targetScreen = screens.FirstOrDefault(s => !s.Equals(mainWindowScreen)) ?? screens[1];
+            
+            // Устанавливаем позицию и размер ДО показа окна
+            _flagWindow.Left = targetScreen.Bounds.Left;
+            _flagWindow.Top = targetScreen.Bounds.Top;
+            _flagWindow.Width = targetScreen.Bounds.Width;
+            _flagWindow.Height = targetScreen.Bounds.Height;
+            
+            // Показываем окно
             _flagWindow.Show();
+            
+            // Разворачиваем на весь экран после показа
             _flagWindow.WindowState = WindowState.Maximized;
         }
 

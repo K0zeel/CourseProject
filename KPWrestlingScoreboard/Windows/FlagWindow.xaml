@@ -6,7 +6,8 @@
         mc:Ignorable="d"
         Title="Архангельская область"
         WindowStyle="None"
-        WindowState="Maximized"
+        WindowState="Normal"
+        WindowStartupLocation="Manual"
         Background="#0a0a0a">
     
     <Grid>

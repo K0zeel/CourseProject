@@ -6,7 +6,8 @@
         mc:Ignorable="d"
         Title="Табло"
         WindowStyle="None"
-        WindowState="Maximized"
+        WindowState="Normal"
+        WindowStartupLocation="Manual"
         Background="#0a0a0a">
     
     <Grid>
