@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\windows\\scoreboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\windows\\scoreboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\services\\scoreboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\services\\scoreboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\data\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\data\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\data\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\data\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\windows\\scoreboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\windows\\scoreboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\windows\\tournamentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\windows\\tournamentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\services\\tournament\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\services\\tournament\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|e:\\\u0434\u0438\u043F\u043B\u043E\u043C\\dpwrestlingscoreboard\\dpwrestlingscoreboard\\services\\tournament\\tournamentmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|DPWrestlingScoreboard\\DPWrestlingScoreboard.csproj|solutionrelative:dpwrestlingscoreboard\\services\\tournament\\tournamentmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\AssemblyInfo.cs",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\AssemblyInfo.cs",
+              "RelativeToolTip": "DPWrestlingScoreboard\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T12:08:38.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\MainWindow.xaml",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\MainWindow.xaml",
+              "RelativeToolTip": "DPWrestlingScoreboard\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T08:23:41.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Data\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\Data\\AppConfiguration.cs",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Data\\AppConfiguration.cs",
+              "RelativeToolTip": "DPWrestlingScoreboard\\Data\\AppConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T12:07:31.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\Services\\AuthService.cs",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Services\\AuthService.cs",
+              "RelativeToolTip": "DPWrestlingScoreboard\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T12:07:56.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\appsettings.json",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\appsettings.json",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\appsettings.json",
+              "RelativeToolTip": "DPWrestlingScoreboard\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-21T11:59:00.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScoreboardWindow.xaml",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Windows\\ScoreboardWindow.xaml",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\Windows\\ScoreboardWindow.xaml",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Windows\\ScoreboardWindow.xaml",
+              "RelativeToolTip": "DPWrestlingScoreboard\\Windows\\ScoreboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T08:23:31.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\Services\\PasswordHasher.cs",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "DPWrestlingScoreboard\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T12:08:18.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DPWrestlingScoreboard\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0DAAAAAAAAAAAIwDcDAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:23:45.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreboardWindow.xaml.cs",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Windows\\ScoreboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\Windows\\ScoreboardWindow.xaml.cs",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Windows\\ScoreboardWindow.xaml.cs",
+              "RelativeToolTip": "DPWrestlingScoreboard\\Windows\\ScoreboardWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:23:22.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Data\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\Data\\CurrentUser.cs",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Data\\CurrentUser.cs",
+              "RelativeToolTip": "DPWrestlingScoreboard\\Data\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T12:07:27.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoreboardService.cs",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Services\\ScoreboardService.cs",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\Services\\ScoreboardService.cs",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Services\\ScoreboardService.cs",
+              "RelativeToolTip": "DPWrestlingScoreboard\\Services\\ScoreboardService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:33:13.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TournamentWindow.xaml",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Windows\\TournamentWindow.xaml",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\Windows\\TournamentWindow.xaml",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Windows\\TournamentWindow.xaml",
+              "RelativeToolTip": "DPWrestlingScoreboard\\Windows\\TournamentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-17T22:33:31.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TournamentService.cs",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Services\\Tournament\\TournamentService.cs",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\Services\\Tournament\\TournamentService.cs",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Services\\Tournament\\TournamentService.cs",
+              "RelativeToolTip": "DPWrestlingScoreboard\\Services\\Tournament\\TournamentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:33:20.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TournamentModels.cs",
+              "DocumentMoniker": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Services\\Tournament\\TournamentModels.cs",
+              "RelativeDocumentMoniker": "DPWrestlingScoreboard\\Services\\Tournament\\TournamentModels.cs",
+              "ToolTip": "E:\\\u0414\u0438\u043F\u043B\u043E\u043C\\DPWrestlingScoreboard\\DPWrestlingScoreboard\\Services\\Tournament\\TournamentModels.cs",
+              "RelativeToolTip": "DPWrestlingScoreboard\\Services\\Tournament\\TournamentModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:33:18.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

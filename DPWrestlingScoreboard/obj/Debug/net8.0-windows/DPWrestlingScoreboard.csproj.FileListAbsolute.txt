@@ -1,0 +1,249 @@
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Resources\stop.wav
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.exe
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.deps.json
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.runtimeconfig.json
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.pdb
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Azure.Core.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Azure.Identity.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\ClosedXML.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Irony.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\System.ClientModel.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\System.Memory.Data.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\XLParser.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.csproj.AssemblyReference.cache
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\MainWindow.baml
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\DatabaseWindow.baml
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\FlagWindow.baml
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\LoginWindow.baml
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\ScoreboardWindow.baml
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\UserManagementWindow.baml
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\WrestlerEditWindow.baml
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\MainWindow.g.cs
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\DatabaseWindow.g.cs
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\FlagWindow.g.cs
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\LoginWindow.g.cs
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\ScoreboardWindow.g.cs
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\UserManagementWindow.g.cs
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\WrestlerEditWindow.g.cs
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\App.g.cs
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard_MarkupCompile.cache
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.g.resources
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.GeneratedMSBuildEditorConfig.editorconfig
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.AssemblyInfoInputs.cache
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.AssemblyInfo.cs
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.csproj.CoreCompileInputs.cache
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.sourcelink.json
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestl.D32565A6.Up2Date
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\refint\DPWrestlingScoreboard.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.pdb
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.genruntimeconfig.cache
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\ref\DPWrestlingScoreboard.dll
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\TournamentWindow.baml
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\TournamentWindow.g.cs
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\WeightCategoryManagementWindow.baml
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\WeightCategoryManagementWindow.g.cs
+d:\DiplomProject\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\appsettings.json
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Resources\stop.wav
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\appsettings.json
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.exe
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.deps.json
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.runtimeconfig.json
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.pdb
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Irony.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\XLParser.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.csproj.AssemblyReference.cache
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\DatabaseWindow.baml
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\FlagWindow.baml
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\LoginWindow.baml
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\ScoreboardWindow.baml
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\TournamentWindow.baml
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\UserManagementWindow.baml
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\WeightCategoryManagementWindow.baml
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\WrestlerEditWindow.baml
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\DatabaseWindow.g.cs
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\FlagWindow.g.cs
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\LoginWindow.g.cs
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\ScoreboardWindow.g.cs
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\TournamentWindow.g.cs
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\UserManagementWindow.g.cs
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\WeightCategoryManagementWindow.g.cs
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\WrestlerEditWindow.g.cs
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\App.g.cs
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard_MarkupCompile.cache
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.g.resources
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.GeneratedMSBuildEditorConfig.editorconfig
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.AssemblyInfoInputs.cache
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.AssemblyInfo.cs
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.csproj.CoreCompileInputs.cache
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.sourcelink.json
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestl.D32565A6.Up2Date
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\refint\DPWrestlingScoreboard.dll
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.pdb
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.genruntimeconfig.cache
+E:\Диплом\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\ref\DPWrestlingScoreboard.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Resources\stop.wav
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\appsettings.json
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.exe
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.deps.json
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.runtimeconfig.json
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DPWrestlingScoreboard.pdb
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Irony.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\XLParser.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.csproj.AssemblyReference.cache
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\DatabaseWindow.baml
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\FlagWindow.baml
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\LoginWindow.baml
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\ScoreboardWindow.baml
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\TournamentWindow.baml
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\UserManagementWindow.baml
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\WeightCategoryManagementWindow.baml
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\WrestlerEditWindow.baml
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\DatabaseWindow.g.cs
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\FlagWindow.g.cs
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\LoginWindow.g.cs
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\ScoreboardWindow.g.cs
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\TournamentWindow.g.cs
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\UserManagementWindow.g.cs
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\WeightCategoryManagementWindow.g.cs
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\Windows\WrestlerEditWindow.g.cs
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\App.g.cs
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard_MarkupCompile.cache
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.g.resources
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.GeneratedMSBuildEditorConfig.editorconfig
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.AssemblyInfoInputs.cache
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.AssemblyInfo.cs
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.csproj.CoreCompileInputs.cache
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.sourcelink.json
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestl.D32565A6.Up2Date
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\refint\DPWrestlingScoreboard.dll
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.pdb
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\DPWrestlingScoreboard.genruntimeconfig.cache
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\ref\DPWrestlingScoreboard.dll

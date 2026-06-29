@@ -1,0 +1,20 @@
+﻿DPWrestlingScoreboard
+
+
+winexe
+C#
+.cs
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\obj\Debug\net8.0-windows\
+DPWrestlingScoreboard
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+E:\Диплом Махин\DPWrestlingScoreboard\DPWrestlingScoreboard\App.xaml
+9994558902
+
+311440676592
+2421146662970
+MainWindow.xaml;Windows\DatabaseWindow.xaml;Windows\FlagWindow.xaml;Windows\LoginWindow.xaml;Windows\ScoreboardWindow.xaml;Windows\TournamentWindow.xaml;Windows\UserManagementWindow.xaml;Windows\WeightCategoryManagementWindow.xaml;Windows\WrestlerEditWindow.xaml;
+
+False
+

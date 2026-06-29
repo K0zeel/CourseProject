@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KursProect\\KPWrestlingScoreboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\models\\wrestler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\models\\wrestler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8CC2E9-D339-49C9-AA49-9149C6BFF35F}|KPWrestlingScoreboard.Tests\\KPWrestlingScoreboard.Tests.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard.tests\\scoreboardservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8CC2E9-D339-49C9-AA49-9149C6BFF35F}|KPWrestlingScoreboard.Tests\\KPWrestlingScoreboard.Tests.csproj|solutionrelative:kpwrestlingscoreboard.tests\\scoreboardservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\windows\\flagwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\windows\\flagwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\windows\\flagwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\windows\\flagwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\data\\wrestlingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\data\\wrestlingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\windows\\usermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\windows\\usermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\database\\createdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\database\\createdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\data\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\data\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\services\\scoreboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\services\\scoreboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\windows\\scoreboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\windows\\scoreboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|d:\\kursproect\\kpwrestlingscoreboard\\kpwrestlingscoreboard\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE205A-383B-4AD1-9C71-D4CEEFFFCA9A}|KPWrestlingScoreboard\\KPWrestlingScoreboard.csproj|solutionrelative:kpwrestlingscoreboard\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Windows\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Windows\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Windows\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Windows\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:56:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wrestler.cs",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Models\\Wrestler.cs",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Models\\Wrestler.cs",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Models\\Wrestler.cs",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Models\\Wrestler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T20:33:55.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Windows\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Windows\\LoginWindow.xaml",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Windows\\LoginWindow.xaml",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Windows\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-05T08:39:09.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\MainWindow.xaml",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\MainWindow.xaml",
+              "RelativeToolTip": "KPWrestlingScoreboard\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T20:57:08.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlagWindow.xaml",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Windows\\FlagWindow.xaml",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Windows\\FlagWindow.xaml",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Windows\\FlagWindow.xaml",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Windows\\FlagWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-05T08:44:27.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreboardServiceTests.cs",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard.Tests\\ScoreboardServiceTests.cs",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard.Tests\\ScoreboardServiceTests.cs",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard.Tests\\ScoreboardServiceTests.cs",
+              "RelativeToolTip": "KPWrestlingScoreboard.Tests\\ScoreboardServiceTests.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T04:24:26.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KPWrestlingScoreboard\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAiwGQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:10:46.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlagWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Windows\\FlagWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Windows\\FlagWindow.xaml.cs",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Windows\\FlagWindow.xaml.cs",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Windows\\FlagWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:44:31.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WrestlingDbContext.cs",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Data\\WrestlingDbContext.cs",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Data\\WrestlingDbContext.cs",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Data\\WrestlingDbContext.cs",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Data\\WrestlingDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:04:07.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManagementWindow.xaml",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Windows\\UserManagementWindow.xaml",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Windows\\UserManagementWindow.xaml",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Windows\\UserManagementWindow.xaml",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Windows\\UserManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-09T00:04:43.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateDatabase.sql",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Database\\CreateDatabase.sql",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Database\\CreateDatabase.sql",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Database\\CreateDatabase.sql",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Database\\CreateDatabase.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-09T00:04:20.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Data\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Data\\CurrentUser.cs",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Data\\CurrentUser.cs",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Data\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:04:10.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Models\\User.cs",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Models\\User.cs",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Models\\User.cs",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T20:33:54.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Models\\Role.cs",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Models\\Role.cs",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Models\\Role.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T20:33:53.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScoreboardWindow.xaml",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Windows\\ScoreboardWindow.xaml",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Windows\\ScoreboardWindow.xaml",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Windows\\ScoreboardWindow.xaml",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Windows\\ScoreboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-05T08:39:12.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScoreboardService.cs",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Services\\ScoreboardService.cs",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\Services\\ScoreboardService.cs",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\Services\\ScoreboardService.cs",
+              "RelativeToolTip": "KPWrestlingScoreboard\\Services\\ScoreboardService.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAcwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T04:14:52.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\App.xaml.cs",
+              "RelativeDocumentMoniker": "KPWrestlingScoreboard\\App.xaml.cs",
+              "ToolTip": "D:\\KursProect\\KPWrestlingScoreboard\\KPWrestlingScoreboard\\App.xaml.cs",
+              "RelativeToolTip": "KPWrestlingScoreboard\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:36:57.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
